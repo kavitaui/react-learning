@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Avtar {
+  border-radius: 50%;
+}
+.heading {
+  color: crimson;
+}
+.images {
+  height: 100px;
+  width: 100px;
+}
+.boundry {
+  padding: 10px;
+  float: left;
+}
