@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div className="App">
       <Content />
-      <DateComponant />
+      <DateComponant /> kavita
       <Images />
     </div>
   );
